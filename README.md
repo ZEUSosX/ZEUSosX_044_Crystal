@@ -1,5 +1,8 @@
+![ZEUSosX 044 Crystal Preview](window%20ZEUSosX_044_CRYSTAL.png)
+
 # ZEUSosX_044_Crystal
 A premium one-row layout modification for Windows 11 File Explorer featuring symmetrical 2px Crystal glass frames and DPI-safe scaling verification up to 250%. 
+
 # ZEUSosX 044 Crystal - Windows 11 File Explorer Styler Theme
 
 ### 100% Verified Universal 44px Single-Row Layout with Unified 2px Glass Borders
@@ -86,4 +89,5 @@ If you encounter issues or have suggestions, verify you are using the latest sta
 
 Made in Greece, by ZEUSosX, June 2026 (Updated October 2026).  
 Enjoy your minimalist File Explorer! 🎨
+
 
