@@ -41,7 +41,7 @@ Rigorously tested and verified across high-DPI environments spanning from **125%
 6. **Apply Changes:** Click "Save settings". Changes take effect instantly! ✅
 
 ## 📋 YAML Configuration Highlights
-The complete configuration is available in: `[ZEUSosX_044_Crystal.yaml](https://github.com/ZEUSosX/ZEUSosX_044_Crystal/blob/main/ZEUSosX_044_Crystal.yaml)`
+The complete configuration is available in: https://github.com/ZEUSosX/ZEUSosX_044_Crystal/blob/main/ZEUSosX_044_Crystal.yaml
 * **Theme Name:** ZEUSosX_044_Crystal
 * **Background Effect:** acrylic
 * **Core Layout Height:** 44px
